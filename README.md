@@ -1,6 +1,6 @@
 # Traffic-Sign-Analyzer
 
-This is a console application that aim to detect the **traffic signs** encontered in camera. <br>
+This is a console application that aim to detect the **traffic signs** encountered in camera. <br>
 This project is built using keras and openCV libraries.
 
 ### Introduction
@@ -23,4 +23,8 @@ There are 43 classes (e.g. Speed Limit 20km/h, No entry, Bumpy road, etc.). <br>
 
 ![Screenshot 2021-01-01 175255](https://user-images.githubusercontent.com/66209332/103440011-28d09480-4c68-11eb-8064-0bc3f604bbd3.jpg)
 
-###No of Images of each class
+### No of Images of each class
+
+A difference can be observed in the no. of different classes of images, this change in number also results in different accuracy of each class.
+
+
