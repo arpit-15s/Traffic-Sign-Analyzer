@@ -42,10 +42,12 @@ Last 3 layers are connected producing 43 classes (using SoftMax activation fn.)
 
 ![image](https://user-images.githubusercontent.com/66209332/103440125-1c990700-4c69-11eb-985b-1cef2b06340a.png)
 
-
+![image](https://user-images.githubusercontent.com/66209332/103440478-0d678880-4c6c-11eb-8635-acd45e4c9052.png)
 
 ### Observations
 ![image](https://user-images.githubusercontent.com/66209332/103440133-2a4e8c80-4c69-11eb-8a82-ac8271d6cf40.png)
 ![image](https://user-images.githubusercontent.com/66209332/103440139-30446d80-4c69-11eb-9730-877302414702.png)
+
+It is observed that after 8 epochs the loss and accuracy becomes constant and the result is 99% accurate.
 
 
