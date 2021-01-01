@@ -27,4 +27,22 @@ There are 43 classes (e.g. Speed Limit 20km/h, No entry, Bumpy road, etc.). <br>
 
 A difference can be observed in the no. of different classes of images, this change in number also results in different accuracy of each class.
 
+![image](https://user-images.githubusercontent.com/66209332/103440113-08eda080-4c69-11eb-98a0-4a3139b28f96.png)
+
+### Preprocessing stage 
+
+
+
+### Architecture
+
+Network has 3 Convolutional Layers – kernel size: 3 X 3
+Activation function – ReLU (followed by 2 X 2 maxPooling operation)
+Last 3 layers are connected producing 43 classes (using SoftMax activation fn.)
+
+![image](https://user-images.githubusercontent.com/66209332/103440125-1c990700-4c69-11eb-985b-1cef2b06340a.png)
+
+### Observations
+![image](https://user-images.githubusercontent.com/66209332/103440133-2a4e8c80-4c69-11eb-8a82-ac8271d6cf40.png)
+![image](https://user-images.githubusercontent.com/66209332/103440139-30446d80-4c69-11eb-9730-877302414702.png)
+
 
