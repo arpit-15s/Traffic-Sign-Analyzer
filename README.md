@@ -21,3 +21,6 @@ Validation set is composed of 5568 images.<br>
 Test set is composed of 6960 images. <br>
 There are 43 classes (e.g. Speed Limit 20km/h, No entry, Bumpy road, etc.). <br>
 
+![Screenshot 2021-01-01 175255](https://user-images.githubusercontent.com/66209332/103440011-28d09480-4c68-11eb-8064-0bc3f604bbd3.jpg)
+
+###No of Images of each class
